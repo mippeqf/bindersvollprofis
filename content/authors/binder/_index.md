@@ -14,7 +14,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm the boss here
+bio:
 
 interests:
   - Macroeconomics, Time series, Panel data metrics, Absolute superbrain
