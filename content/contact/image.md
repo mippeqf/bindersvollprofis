@@ -5,6 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 20
@@ -13,7 +14,7 @@ title:
 subtitle:
 
 design:
-  columns: '1'
+  columns: "1"
   background:
     image: contact.jpg
     image_darken: 0
@@ -22,7 +23,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
 ---

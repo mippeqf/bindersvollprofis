@@ -16,22 +16,22 @@ content:
   # Contact (edit or remove options as required)
 
   email: test@example.org
-  phone: 888 888 88 88
+  phone: 1234567890
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Theodor-W.-Adorno-Platz 3
+    city: Frankfurt am Main
+    region:
+    postcode: "60323 "
+    country: Germany
+    country_code: DE
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: 50.12721668760944
+    longitude: 8.665664015310195
+  directions: Enter building and take left staircase or elevator to level 3
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - "Monday 10:00 to 13:00"
+    - "Wednesday 09:00 to 10:00"
+  appointment_url: "https://calendly.com"
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -51,7 +51,7 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: "1"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.

@@ -6,13 +6,11 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+title: Chair of Macroeconomics & Macroeconometrics
+hero_media: portrait.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   # Add custom styles
   css_style:
   css_class:
@@ -20,4 +18,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Professor Michael Binder, Ph.D. holds the Chair for International Macroeconomics and Macroeconometrics at Goethe University.
